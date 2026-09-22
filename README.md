@@ -47,11 +47,11 @@ Windows is the current development and testing platform. A Mac version is planne
 
 ## File Extensions Supported
 
-Pocketknife’s file-type reference currently covers **624 extensions**, grouped below and sorted alphabetically within each group. Numbers come before letters.
+Pocketknife’s file-type reference currently covers hundreds of extensions.
 
-**Support varies:** these lists include built-in viewers, editors, playback and archive readers, conditional formats, and files recognised only for identification or general operations such as copying and renaming. They are not a promise that every listed format can be opened, edited or converted. The help guide explains the available tools and limits for each extension.
+**Support varies** depending on file type. Not every listed format can be opened, edited and converted. The help guide explains the available tools and limits for each extension.
 
-Some extensions are shared by unrelated formats—for example, `.ts` can mean a video stream or TypeScript source. Each ending appears once below under its usual category in Pocketknife’s reference; the file’s contents may lead to a different interpretation.
+Some extensions are shared by unrelated formats. For example, `.ts` can mean a video stream or TypeScript source.
 
 ### Pictures and photographs
 

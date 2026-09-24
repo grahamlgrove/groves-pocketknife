@@ -43,7 +43,9 @@ Pocketknife provides **seven days of full access**. After that, you can continue
 
 ## Platforms
 
-Windows is the current development and testing platform. A Mac version is planned; it is not yet available.
+Grove’s Pocketknife 1.0 is available for Windows and macOS:
+- Windows: Choose the installer (.exe), or download the portable .zip, extract it and run Pocketknife.exe without installing.
+- macOS: Available for both Apple Silicon and Intel Macs. Choose the download that matches your Mac.
 
 ## File Extensions Supported
 

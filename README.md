@@ -194,4 +194,4 @@ For questions or bug reports, email [G. Grove](mailto:grahamlgrove@gmail.com). I
 
 This repository provides public downloads, release notes and, later, the online help manual. It is not the application’s source-code repository.
 
-Grove’s Pocketknife is commercial software with a free trial and a continuing limited free mode. A public download does not grant an open-source licence to the application. Included third-party components retain their own licences and notices, supplied with the application.
+Grove’s Pocketknife is software with a free trial and a continuing limited free mode. A public download does not grant an open-source licence to the application. Included third-party components retain their own licences and notices, supplied with the application.
